@@ -1,0 +1,38 @@
+.navbar {
+     background: #91DAB1;
+}
+
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus {
+    color: #fff;
+    background: #72A086;
+}
+
+.navbar .navbar-nav > .open > a,
+.navbar .navbar-nav > .open > a:hover,
+.navbar .navbar-nav > .open > a:focus {
+    color: #fff;
+    background: #72A086;
+}
+
+.breadcrumb {
+    background-color: rgba(145, 218, 177, 0.61);
+}
+
+th,tr {
+    text-align: center;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 0px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.row-footer{
+    background-color: #91DAB1;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
